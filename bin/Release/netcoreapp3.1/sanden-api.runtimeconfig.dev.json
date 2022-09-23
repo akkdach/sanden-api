@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Devakam-Admin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Devakam-Admin\\.nuget\\packages"
+    ]
+  }
+}
